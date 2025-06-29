@@ -1,1 +1,0 @@
-# riak-vs-redis
